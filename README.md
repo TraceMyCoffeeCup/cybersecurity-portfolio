@@ -1,27 +1,39 @@
-# 🛡️ Cyber Security Portfolio & Activity Log
+# 🛡️ Salvo Orlando | Cyber Security & OSINT Portfolio
 
-Benvenuto nel mio repository GitHub. Qui documento i miei progetti pratici di Cyber Security, l'analisi di scenari di incident response e il mio percorso di certificazioni.
+> **Junior Cybersecurity Analyst | Ethical Hacking & OSINT | Digital Forensics**
+> 
+> Neolaureato in Ingegneria Informatica (L-8) con orientamento ad ambienti SOC, Threat Analysis e Network Defense. 
 
 ---
 
 ## 📁 Sezioni del Repository
 
-* 🎓 **[Certificazioni & Attestati](certificazioni/README.md):** Elenco delle certificazioni completate e in corso.
-* 🛠️ **[Progetti & Job Simulations](progetti/):** Analisi dettagliate e writeup delle simulazioni lavorative.
+* 🎓 **[Certificazioni & Formazione](certificazioni/README.md):** Dettaglio dei corsi Cisco, Fortinet e percorso accademico.
+* 🛠️ **[Progetti & Simulazioni](progetti/):** Writeup dettagliati sui progetti pratici (Forage, Home Lab, OSINT).
 
 ---
 
-## 🚀 Progetti In Evidenza
+## 🚀 Progetti & Simulazioni Pratiche
 
-| Progetto / Simulazione | Categoria | Argomenti Chiave | Link al Report |
+| Progetto / Simulazione | Categoria | Skills & Tools | Link Report |
 | :--- | :--- | :--- | :--- |
-| **Deloitte - Cyber Security** | Job Simulation | Log Analysis, Data Leak, Incident Response | [Leggi Writeup](progetti/deloitte-task1.md) |
-| **Mastercard - Cyber Security** | Job Simulation | Phishing Analysis, Security Awareness | [Leggi Writeup](progetti/mastercard.md) |
+| **Deloitte** | Cyber Security | Web Log Analysis, Incident Response, Access Control | [Leggi Report](progetti/deloitte-task1.md) |
+| **Mastercard** | Cyber Security | Phishing Identification, Email Security, Security Awareness | [Leggi Report](progetti/mastercard.md) |
+| **OSINT & Digital Investigation** | Research / Thesis | Open Source Intelligence, Cybercrime Analysis, Risk Mapping | *In arrivo* |
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 📜 Certificazioni Ufficiali in Evidenza
 
-* **Log Analysis:** Web Server Logs (Apache/Nginx), HTTP Request Inspection
-* **Network Security:** Router/ONT Setup, Packet Analysis, Wireshark
-* **Systems & Admin:** Linux/Bash, Security Hardening, Python
+* **Fortinet:** Fortinet Certified Fundamentals Cybersecurity (FCF)
+* **Cisco:** Cybersecurity Scholarship Italia (Threat Management, Network Defense)
+* **Forma.Temp:** Cybersecurity Specialist (188h - Vulnerability Assessment & Log Analysis)
+* **NDG / Cisco:** Linux Unhatched (Bash Scripting & Administration)
+
+---
+
+## 🛠️ Competenze Tecniche
+
+* **Cybersecurity & SOC:** Vulnerability Assessment (Nmap, Burp Suite), Traffic Inspection (Wireshark), Log Analysis, OSINT.
+* **Sistemi & Networking:** Amministrazione Linux (Bash), Windows, TCP/IP, Router & ONT, Security Hardening.
+* **Istruzione:** Laurea Triennale in Ingegneria Informatica (L-8) – *Tesi in Criminologia Informatica e OSINT*.
