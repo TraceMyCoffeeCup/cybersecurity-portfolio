@@ -4,6 +4,14 @@ In questa sezione raccolgo i titoli accademici, le certificazioni industriali e 
 
 ---
 
+## 🎓 Istruzione Accademica
+
+* **Laurea Triennale in Ingegneria Informatica (L-8)** — Università Mercatorum (2022 – 2025)
+  * **Tesi:** *Criminologia Informatica e OSINT: Tecniche di Investigazione Digitale*
+  * **Core Subjects:** Reti di calcolatori, Sicurezza informatica, Programmazione, Architettura dei dati.
+
+---
+
 ## 📜 Certificazioni Ufficiali
 
 * **Fortinet Certified Fundamentals Cybersecurity (FCF)** (10/2025 – 10/2027)
@@ -14,14 +22,6 @@ In questa sezione raccolgo i titoli accademici, le certificazioni industriali e 
   * *Focus:* Analisi traffico di rete (Wireshark), scansioni di vulnerabilità (Nmap, Burp Suite), Hardening OS e Log Analysis.
 * **Linux Unhatched** (NDG / Cisco Networking Academy | 2023)
   * *Focus:* Amministrazione Linux, gestione file system e Bash Scripting per l'automazione.
-
----
-
-## 🎓 Istruzione Accademica
-
-* **Laurea Triennale in Ingegneria Informatica (L-8)** — Università Mercatorum (2022 – 2025)
-  * **Tesi:** *Criminologia Informatica e OSINT: Tecniche di Investigazione Digitale*
-  * **Core Subjects:** Reti di calcolatori, Sicurezza informatica, Programmazione, Architettura dei dati.
 
 ---
 
