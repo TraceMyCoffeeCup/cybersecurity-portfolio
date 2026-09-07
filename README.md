@@ -23,9 +23,10 @@ Neolaureato in **Ingegneria Informatica (L-8)** con una preparazione teorico-pra
 
 ```text
 cybersecurity-portfolio/
-├── 🎓 certificazioni/   --> Attestati ufficiali, Badge e Certificazioni industriali
+├── 📄 README.md         --> Landing Page principale
 ├── 🛠️ progetti/         --> Technical Writeups e analisi dettagliate dei progetti
-└── 📄 README.md         --> Landing Page principale
+└── 🎓 certificazioni/   --> Attestati ufficiali, Badge e Certificazioni industriali
+
 ```
 
 * 🎓 **[Certificazioni & Formazione Completa](certificazioni/README.md)**
@@ -39,7 +40,6 @@ cybersecurity-portfolio/
 | :--- | :--- | :--- | :---: |
 | **Deloitte** | Virtual Internship | Web Log Analysis, Incident Response, Access Control | [📄 Read Report](progetti/deloitte-task1.md) |
 | **Mastercard** | Virtual Internship | Phishing Threat Analysis, Email Security (SPF/DMARC) | [📄 Read Report](progetti/mastercard.md) |
-| **OSINT Lab** | Research & Thesis | Open Source Intelligence, Cybercrime, Investigation | ⏳ *In Arrivo* |
 
 ---
 
