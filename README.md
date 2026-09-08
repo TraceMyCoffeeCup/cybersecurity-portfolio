@@ -25,12 +25,14 @@ Neolaureato in **Ingegneria Informatica (L-8)** con una preparazione teorico-pra
 cybersecurity-portfolio/
 ├── 📄 README.md         --> Landing Page principale
 ├── 🛠️ progetti/         --> Technical Writeups e analisi dettagliate dei progetti
-└── 🎓 certificazioni/   --> Attestati ufficiali, Badge e Certificazioni industriali
+├── 🎓 certificazioni/   --> Attestati ufficiali, Badge e Certificazioni industriali
+└── 🔬 tesi/             --> Elaborato di tesi e tool OSINT custom (Python)
 
 ```
 
 * 🎓 **[Certificazioni & Formazione Completa](certificazioni/README.md)**
 * 🛠️ **[Indice dei Progetti Pratici](progetti/)**
+* 🔬 **[Progetto di Tesi & OSINT Dashboard](tesi/README.md)**
 
 ---
 
@@ -40,6 +42,17 @@ cybersecurity-portfolio/
 | :--- | :--- | :--- | :---: |
 | **Deloitte** | Virtual Internship | Web Log Analysis, Incident Response, Access Control | [📄 Read Report](progetti/deloitte-task1.md) |
 | **Mastercard** | Virtual Internship | Phishing Threat Analysis, Email Security (SPF/DMARC) | [📄 Read Report](progetti/mastercard.md) |
+
+---
+
+## 🔬 Progetto di Tesi & Ricerca
+
+Nel percorso di tesi in Ingegneria Informatica ho approfondito le dinamiche del **Cybercrime** e le tecniche **OSINT**, sviluppando strumenti dedicati all'automazione delle investigazioni.
+
+| Componente | Descrizione | File / Link |
+| :--- | :--- | :--- |
+| **Documentazione Tesi** | Elaborato teorico e analisi delle tecniche OSINT | [📄 Read README](tesi/README.md) |
+| **OSINT Console** | Script Python per dashboard e interrogazioni investigative | [💻 View Script](tesi/osint_dashboard_console.py) |
 
 ---
 
